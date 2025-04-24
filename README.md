@@ -1,4 +1,4 @@
-# fantastic-flash-usdt-making-
+#
 pragma solidity ^0.6.6;
 
 
